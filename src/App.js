@@ -5,7 +5,7 @@ import "./App.css";
 
 // b9c593b API FOR MOVIE APP
 
-const API_URL = 'http://www.omdbapi.com?apikey=b9c593b';
+const API_URL = 'http://www.omdbapi.com?apikey=b9c593bs=';
 
 const App = () => {
   const [movies, setmovies] = useState([]);
